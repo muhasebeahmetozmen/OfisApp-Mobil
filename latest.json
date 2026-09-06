@@ -1,8 +1,8 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.2",
-    "apkUrl":  "https://github.com/muhasebeahmetozmen/ofisapp-surumler/releases/download/v1.2-4/OfisApp-v1.2-4.apk",
-    "sha256":  "1f340e2447b2e539124f049fabb72068d1f3b24d315407d70cb8f813f4b2dd0d",
-    "notlar":  "Klasor yapisi, sol menu, coklu secim, kes-kopyala-yapistir, kamera ayarlari ve otomatik guncelleme eklendi.",
+    "versionCode":  5,
+    "versionName":  "1.3",
+    "apkUrl":  "https://github.com/muhasebeahmetozmen/ofisapp-surumler/releases/download/v1.3-5/OfisApp-v1.3-5.apk",
+    "sha256":  "2a6630448a4bcf38163a1b723d2d4a54a33be27ef57e93f151ba3de2442e0033",
+    "notlar":  "Guncelleme kurulduktan sonra indirilen kurulum dosyasi kendiliginden siliniyor.",
     "boyutBayt":  2493613
 }
