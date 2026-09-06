@@ -1,8 +1,8 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.4",
-    "apkUrl":  "https://github.com/muhasebeahmetozmen/ofisapp-surumler/releases/download/v1.4-6/OfisApp-v1.4-6.apk",
-    "sha256":  "f6d2105f6b5d7d2300e405ba60f627ce82c8830d3e2a5e28e681f5ac1c744a6c",
-    "notlar":  "Klasör listesi yeniden düzenlendi: klasör adı artık kesilmiyor, altında fotoğraf sayısı ve saat tam görünüyor. Bir düğmeye basılı tutunca ne işe yaradığı altında yazıyor; basılı tutmak artık işlemi yapmıyor. Renkler netleşti: yeşil onay ve seçim, kırmızı yalnızca geri alınamayan silme. Kamera üst şeridi de aynı şekilde çalışıyor. PDF üretiminde bir sayfanın boş çıkabildiği durum kapatıldı.",
-    "boyutBayt":  2561753
+  "versionCode": 6,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/muhasebeahmetozmen/OfisApp-Mobil/releases/download/v1.4-6/OfisApp-v1.4-6.apk",
+  "sha256": "f6d2105f6b5d7d2300e405ba60f627ce82c8830d3e2a5e28e681f5ac1c744a6c",
+  "notlar": "Klasör listesi yeniden düzenlendi: klasör adı artık kesilmiyor, altında fotoğraf sayısı ve saat tam görünüyor. Bir düğmeye basılı tutunca ne işe yaradığı altında yazıyor; basılı tutmak artık işlemi yapmıyor. Renkler netleşti: yeşil onay ve seçim, kırmızı yalnızca geri alınamayan silme. Kamera üst şeridi de aynı şekilde çalışıyor. PDF üretiminde bir sayfanın boş çıkabildiği durum kapatıldı.",
+  "boyutBayt": 2561753
 }
