@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.5",
-    "apkUrl":  "https://github.com/muhasebeahmetozmen/OfisApp-Mobil/releases/download/v1.5/OfisApp-1.5.apk",
-    "sha256":  "6c5618c304c3ec1a48b267b5f16c584b92fad291365714cd7e9819150feb9db6",
-    "notlar":  "Klasördeki fotoğrafları uzun basıp parmağı kaldırmadan sürükleyerek toplu seçebilirsin, telefon galerilerindeki gibi. Kameradan çıkarken kaç fotoğraf kaydedildiğini söyleyen bir onay çıkıyor; istersen o oturumda çektiklerini çöpe atabilirsin. Silinen fotoğraflar için \"Geri al\" eklendi: tek dokunuşla, çevirme bilgisi ve sırasıyla birlikte geri gelirler. Bir fotoğraf çöp kutusuna taşınamazsa uygulama bunu artık açıkça söylüyor; eskiden \"geri alabilirsin\" diyordu ama o dosya kalıcı silinmiş oluyordu. Görünüm ayarında \"Telefona uy\" seçeneğinin adı \"Sistem\" oldu.",
-    "boyutBayt":  2561845
+    "versionCode":  8,
+    "versionName":  "1.6",
+    "apkUrl":  "https://github.com/muhasebeahmetozmen/OfisApp-Mobil/releases/download/v1.6/OfisApp-1.6.apk",
+    "sha256":  "ce86bc377b98afb0f3028dbca951eac0bd501871d6d80a16ffb6e3cadd8a9eb1",
+    "notlar":  "Fotoğraf düzenleyici eklendi. Bir fişi açıp üstteki kırpma simgesine dokunarak kenarlarını kesebilir, eğri çektiysen açısını düzeltebilir, sola/sağa çevirebilir ve aynalayabilirsin. Kırpma çerçevesinde köşeleri sürüklersen iki kenar birden, kenar ortalarını sürüklersen tek kenar oynar. Açıyı ayarlarken fotoğraf parmağınla birlikte dönüyor, hizalamayı kolaylaştıran bir ızgara çıkıyor ve eğik çekimde köşelerde kalacak beyaz boşluğu önceden görüyorsun. Yaptığın hiçbir işlem fotoğrafın kendisine işlenmiyor: orijinal dosya olduğu gibi duruyor ve istediğin an \"Aslına dön\" diyebilirsin.\n\nYeni sürüm denetimi düzeltildi. Uygulama artık her açılışta ve arka plandan her dönüşünde bakıyor, bulduğu sürümü de hatırlıyor. Eskiden yeni bir sürüm çıktığında telefonlar bunu saatlerce fark etmiyor, çoğu zaman ancak Ayarlar\u0027dan elle denetleyince görüyordu. Ayarlarda son denetimin ne zaman yapıldığı da yazıyor.\n\nUygulama ikonu yenilendi ve \"Fişler\" bölümünün adı \"Fiş \u0026 Fatura\" oldu.",
+    "boyutBayt":  2907522
 }
